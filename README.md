@@ -13,7 +13,7 @@ A RESTful API built with **PHP (OOP)** and **PostgreSQL** that manages students,
 | Lebron Catubao      | Database Designer |
 | Lebron Catubao      | Model Developer (PHP OOP) |
 | Jericho Monter      | CRUD API Developer |
-| Jhomel Barcelon     | Relationship API Developer |
+| Jhomel Barcelona     | Relationship API Developer |
 | Christian Ricamara  | Data Analytics API Developer |
 | Aaron Maligaya      | Documentation and Testing |
 
